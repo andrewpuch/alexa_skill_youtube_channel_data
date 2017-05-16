@@ -1,0 +1,19 @@
+{
+  "name": "alexa_skill_youtube_channel_data",
+  "version": "1.0.0",
+  "description": "Creating an Alexa skill to get your YouTube channel data. This data includes your subscriber, view, and video count.",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:andrewpuch/alexa_skill_youtube_channel_data.git"
+  },
+  "author": "AWS Tutorial Series",
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "request": "^2.81.0"
+  },
+  "devDependencies": {
+    "eslint": "^3.19.0",
+    "eslint-config-airbnb-base": "^11.2.0",
+    "eslint-plugin-import": "^2.2.0"
+  }
+}
